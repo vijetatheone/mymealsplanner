@@ -1,0 +1,1107 @@
+[
+  {
+    "title": "Muesli bowl",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "light"
+    ],
+    "time": "5 min",
+    "tags": [
+      "No cook",
+      "Quick",
+      "Breakfast"
+    ],
+    "grocery": [
+      "Muesli",
+      "Milk or curd",
+      "Banana",
+      "Apple",
+      "Nuts optional"
+    ],
+    "baby": "For baby, offer soft banana or curd separately. Avoid whole nuts.",
+    "recipe": "Add muesli to milk or curd. Top with banana or apple. Keep nuts optional and chopped for adults."
+  },
+  {
+    "title": "Sooji idli",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "comfort",
+      "baby"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Indian",
+      "Soft",
+      "Baby adaptable"
+    ],
+    "grocery": [
+      "Sooji",
+      "Curd",
+      "Eno or fruit salt",
+      "Carrot optional",
+      "Curry leaves",
+      "Coconut chutney ingredients"
+    ],
+    "baby": "Soft idli can be mashed with ghee, curd, or mild sambar. Keep baby portion low salt.",
+    "recipe": "Mix sooji, curd, water and salt. Rest briefly. Add Eno before steaming. Steam in idli moulds and serve with chutney."
+  },
+  {
+    "title": "Besan cabbage chilla",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "light"
+    ],
+    "time": "20 min",
+    "tags": [
+      "Protein",
+      "No prep",
+      "Breakfast"
+    ],
+    "grocery": [
+      "Besan",
+      "Cabbage",
+      "Onion optional",
+      "Coriander",
+      "Curd",
+      "Mint"
+    ],
+    "baby": "Make a small soft chilla with minimal salt and no chilli. Cut into tiny pieces if baby is ready for finger foods.",
+    "recipe": "Mix besan with shredded cabbage, coriander, water and mild spices. Cook chillas on a tawa. Serve with curd or chutney."
+  },
+  {
+    "title": "Aloo paratha + curd",
+    "slot": "breakfast",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Filling",
+      "Indian",
+      "House-help easy"
+    ],
+    "grocery": [
+      "Wheat atta",
+      "Potato",
+      "Curd",
+      "Coriander",
+      "Ajwain optional",
+      "Butter or ghee"
+    ],
+    "baby": "Offer soft paratha pieces with curd if baby can chew. Keep spices very mild.",
+    "recipe": "Stuff wheat dough with mashed spiced potato. Roll and cook with ghee. Serve with curd."
+  },
+  {
+    "title": "Gobi paratha + curd",
+    "slot": "breakfast",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Filling",
+      "Indian",
+      "Weekend"
+    ],
+    "grocery": [
+      "Wheat atta",
+      "Cauliflower",
+      "Curd",
+      "Coriander",
+      "Ginger optional",
+      "Butter or ghee"
+    ],
+    "baby": "Offer soft outer paratha pieces or very mild filling only if cauliflower suits baby.",
+    "recipe": "Grate cauliflower, squeeze excess water, season mildly and stuff into dough. Cook parathas and serve with curd."
+  },
+  {
+    "title": "Poha",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "light",
+      "baby"
+    ],
+    "time": "15 min",
+    "tags": [
+      "Indian",
+      "Easy",
+      "Baby adaptable"
+    ],
+    "grocery": [
+      "Poha",
+      "Peas optional",
+      "Onion",
+      "Curry leaves",
+      "Lemon",
+      "Curd optional"
+    ],
+    "baby": "For baby, keep aside soft poha before chilli. Mash with curd if needed.",
+    "recipe": "Rinse poha and keep aside. Temper mustard, curry leaves, onion and peas. Add turmeric and poha. Finish with lemon."
+  },
+  {
+    "title": "Dosa",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "comfort",
+      "baby"
+    ],
+    "time": "15 min if batter ready",
+    "tags": [
+      "South Indian",
+      "Baby adaptable"
+    ],
+    "grocery": [
+      "Dosa batter",
+      "Potato optional",
+      "Coconut chutney ingredients",
+      "Sambar optional"
+    ],
+    "baby": "Soft dosa pieces with ghee or curd can work. Avoid crispy hard pieces for baby.",
+    "recipe": "Spread dosa batter on a hot tawa. Cook with a little ghee. Serve plain or with potato, chutney, or sambar."
+  },
+  {
+    "title": "Spiced sautéed idli",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "comfort"
+    ],
+    "time": "15 min if idli ready",
+    "tags": [
+      "Leftover-friendly",
+      "South Indian"
+    ],
+    "grocery": [
+      "Idli",
+      "Onion",
+      "Capsicum optional",
+      "Curry leaves",
+      "Tomato optional",
+      "Gunpowder optional"
+    ],
+    "baby": "Keep a few plain soft idli pieces aside before sautéing.",
+    "recipe": "Cut idlis into pieces. Sauté with curry leaves, onion, capsicum and mild spices. Finish with chutney powder if desired."
+  },
+  {
+    "title": "Bread peanut butter banana",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "continental"
+    ],
+    "time": "5 min",
+    "tags": [
+      "No cook",
+      "Fast",
+      "Sweet breakfast"
+    ],
+    "grocery": [
+      "Bread",
+      "Peanut butter",
+      "Banana",
+      "Honey optional"
+    ],
+    "baby": "Offer banana separately. Peanut butter only if already introduced and spread very thinly.",
+    "recipe": "Toast bread if you like. Spread peanut butter, add banana slices, and serve open or as a sandwich."
+  },
+  {
+    "title": "Oats pancake",
+    "slot": "breakfast",
+    "mood": [
+      "light",
+      "continental",
+      "baby"
+    ],
+    "time": "20 min",
+    "tags": [
+      "Healthy-ish",
+      "Baby adaptable"
+    ],
+    "grocery": [
+      "Oats",
+      "Banana",
+      "Milk",
+      "Curd optional",
+      "Cinnamon optional",
+      "Ghee"
+    ],
+    "baby": "Make small soft pancakes with banana and oats. Avoid honey for baby under 1 year.",
+    "recipe": "Blend oats, banana and milk into a batter. Cook small pancakes on a tawa with ghee. Serve with fruit."
+  },
+  {
+    "title": "Avocado cheese sandwich",
+    "slot": "breakfast",
+    "mood": [
+      "quick",
+      "continental",
+      "special"
+    ],
+    "time": "10 min",
+    "tags": [
+      "Continental",
+      "Quick",
+      "Filling"
+    ],
+    "grocery": [
+      "Bread",
+      "Avocado",
+      "Cheese",
+      "Tomato optional",
+      "Butter optional"
+    ],
+    "baby": "Offer soft avocado separately if already introduced. Avoid hard toasted pieces for baby.",
+    "recipe": "Mash avocado with a little salt and lemon for adults. Layer with cheese in bread and toast lightly or serve fresh."
+  },
+  {
+    "title": "Dal makhni",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "45 min if soaked",
+    "tags": [
+      "North Indian",
+      "Comfort",
+      "Protein"
+    ],
+    "grocery": [
+      "Whole urad dal",
+      "Rajma optional",
+      "Tomato puree",
+      "Cream or butter",
+      "Ginger garlic",
+      "Rice or roti"
+    ],
+    "baby": "Too heavy/spiced for baby. Offer plain dal rice or curd rice separately.",
+    "recipe": "Pressure cook soaked urad dal until soft. Simmer with tomato, ginger-garlic and mild spices. Finish with butter or cream."
+  },
+  {
+    "title": "Rajma",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "45 min if soaked",
+    "tags": [
+      "Comfort",
+      "Protein"
+    ],
+    "grocery": [
+      "Rajma",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Curd",
+      "Coriander"
+    ],
+    "baby": "Rajma may be heavy. Offer soft rice, curd, or a tiny mashed portion only if already introduced.",
+    "recipe": "Pressure cook soaked rajma. Simmer with onion-tomato masala. Serve with rice and curd."
+  },
+  {
+    "title": "Chhole",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "45 min if soaked",
+    "tags": [
+      "North Indian",
+      "Protein"
+    ],
+    "grocery": [
+      "Kabuli chana",
+      "Onion",
+      "Tomato",
+      "Ginger garlic",
+      "Rice or roti",
+      "Curd optional"
+    ],
+    "baby": "Keep baby meal separate. Chhole can be heavy and spicy.",
+    "recipe": "Pressure cook soaked chana. Simmer with onion-tomato masala and chhole masala. Serve with rice or roti."
+  },
+  {
+    "title": "Kadhi chawal",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "light",
+      "baby"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Comfort",
+      "Soft",
+      "Indian"
+    ],
+    "grocery": [
+      "Curd",
+      "Besan",
+      "Rice",
+      "Curry leaves",
+      "Pakora ingredients optional"
+    ],
+    "baby": "Baby can have soft rice with plain curd or a mild kadhi portion if tolerated.",
+    "recipe": "Whisk curd, besan and water. Simmer with turmeric and tempering. Serve with steamed rice."
+  },
+  {
+    "title": "Mixed dal",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "light",
+      "baby"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Protein",
+      "Daily food"
+    ],
+    "grocery": [
+      "Mixed dals",
+      "Tomato",
+      "Ginger",
+      "Coriander",
+      "Rice or roti",
+      "Ghee"
+    ],
+    "baby": "Good baby option if cooked soft and kept low spice before tadka.",
+    "recipe": "Pressure cook mixed dals with turmeric and tomato. Add simple tadka for adults. Serve with rice or roti."
+  },
+  {
+    "title": "Pasta",
+    "slot": "lunch",
+    "mood": [
+      "continental",
+      "special"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Continental",
+      "Occasional"
+    ],
+    "grocery": [
+      "Pasta",
+      "Tomato puree",
+      "Garlic",
+      "Capsicum",
+      "Carrot",
+      "Cheese"
+    ],
+    "baby": "Use soft pasta pieces with mild sauce and less salt.",
+    "recipe": "Boil pasta. Make a tomato-garlic vegetable sauce. Toss pasta and finish with cheese."
+  },
+  {
+    "title": "Veg pulao + raita",
+    "slot": "lunch",
+    "mood": [
+      "quick",
+      "special"
+    ],
+    "time": "30 min",
+    "tags": [
+      "One pot",
+      "Family meal"
+    ],
+    "grocery": [
+      "Rice",
+      "Mixed vegetables",
+      "Curd",
+      "Cucumber",
+      "Mint",
+      "Paneer optional"
+    ],
+    "baby": "Keep a soft, less-spiced portion aside. Mash with curd.",
+    "recipe": "Cook rice with mixed vegetables and mild spices. Serve with cucumber raita."
+  },
+  {
+    "title": "Matar paneer",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Paneer",
+      "North Indian"
+    ],
+    "grocery": [
+      "Paneer",
+      "Green peas",
+      "Onion",
+      "Tomato",
+      "Cream optional",
+      "Roti or rice"
+    ],
+    "baby": "Offer soft paneer cubes separately if tolerated. Avoid spicy gravy.",
+    "recipe": "Make onion-tomato gravy, add peas and paneer. Simmer gently. Serve with roti or rice."
+  },
+  {
+    "title": "Palak paneer",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special",
+      "light"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Paneer",
+      "Greens"
+    ],
+    "grocery": [
+      "Palak",
+      "Paneer",
+      "Onion",
+      "Tomato optional",
+      "Garlic",
+      "Roti"
+    ],
+    "baby": "Keep a mild palak puree aside if baby has had spinach before. Paneer can be offered soft.",
+    "recipe": "Blanch palak and blend. Cook with mild masala, add paneer and simmer. Serve with roti."
+  },
+  {
+    "title": "Palak corn koftas",
+    "slot": "lunch",
+    "mood": [
+      "special"
+    ],
+    "time": "45 min",
+    "tags": [
+      "Special",
+      "Greens"
+    ],
+    "grocery": [
+      "Palak",
+      "Corn",
+      "Paneer or potato",
+      "Besan",
+      "Onion",
+      "Tomato"
+    ],
+    "baby": "Not ideal as-is for baby. Offer plain soft palak/paneer separately.",
+    "recipe": "Make soft koftas with corn, paneer or potato. Prepare palak gravy and simmer koftas briefly before serving."
+  },
+  {
+    "title": "Aloo beet paneer koftas",
+    "slot": "lunch",
+    "mood": [
+      "special"
+    ],
+    "time": "45 min",
+    "tags": [
+      "Special",
+      "Colorful"
+    ],
+    "grocery": [
+      "Potato",
+      "Beetroot",
+      "Paneer",
+      "Besan",
+      "Onion",
+      "Tomato"
+    ],
+    "baby": "Offer plain beet, potato or paneer mash separately before masala.",
+    "recipe": "Make koftas using mashed potato, grated beet and paneer. Add to a mild onion-tomato gravy."
+  },
+  {
+    "title": "Tofu manchurian",
+    "slot": "lunch",
+    "mood": [
+      "continental",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Indo-Chinese",
+      "Protein"
+    ],
+    "grocery": [
+      "Tofu",
+      "Capsicum",
+      "Spring onion",
+      "Garlic",
+      "Soy sauce",
+      "Cornflour"
+    ],
+    "baby": "Not suitable as-is because of sauces. Offer plain tofu separately if introduced.",
+    "recipe": "Pan-toss tofu cubes. Make garlic-capsicum sauce with soy and cornflour slurry. Toss tofu and serve with rice or noodles."
+  },
+  {
+    "title": "Bhindi stuffed",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Sabzi",
+      "Indian"
+    ],
+    "grocery": [
+      "Bhindi",
+      "Besan optional",
+      "Dry masalas",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Bhindi texture may be tricky. Offer a separate soft vegetable or dal rice.",
+    "recipe": "Slit bhindi and fill with dry masala. Cook covered on low flame until tender. Serve with roti."
+  },
+  {
+    "title": "Bhindi bhujiya",
+    "slot": "lunch",
+    "mood": [
+      "quick",
+      "comfort"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Sabzi",
+      "Daily food"
+    ],
+    "grocery": [
+      "Bhindi",
+      "Onion optional",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Offer only if baby handles texture; otherwise keep dal/curd rice for baby.",
+    "recipe": "Slice bhindi and sauté with mild spices until non-sticky and cooked. Serve with roti and curd."
+  },
+  {
+    "title": "Methi mooli paratha",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Paratha",
+      "Winter-ish"
+    ],
+    "grocery": [
+      "Wheat atta",
+      "Methi",
+      "Mooli",
+      "Curd",
+      "Ghee"
+    ],
+    "baby": "Offer soft pieces with curd if baby can chew and has tolerated these ingredients.",
+    "recipe": "Mix chopped methi and squeezed grated mooli into atta with mild spices. Roll parathas and cook with ghee."
+  },
+  {
+    "title": "Black chana",
+    "slot": "lunch",
+    "mood": [
+      "comfort",
+      "light"
+    ],
+    "time": "40 min if soaked",
+    "tags": [
+      "Protein",
+      "Indian"
+    ],
+    "grocery": [
+      "Black chana",
+      "Onion",
+      "Tomato",
+      "Rice or roti",
+      "Coriander"
+    ],
+    "baby": "Can be heavy. Offer dal rice, curd rice, or a tiny mashed portion only if already introduced.",
+    "recipe": "Pressure cook soaked black chana. Cook with onion-tomato masala or keep it dry-style. Serve with rice or roti."
+  },
+  {
+    "title": "Sprouts sautéed",
+    "slot": "lunch",
+    "mood": [
+      "light",
+      "quick"
+    ],
+    "time": "15 min",
+    "tags": [
+      "Light",
+      "Protein",
+      "Quick"
+    ],
+    "grocery": [
+      "Sprouts",
+      "Onion optional",
+      "Tomato optional",
+      "Lemon",
+      "Coriander"
+    ],
+    "baby": "Avoid whole sprouts for baby. Offer a separate soft meal.",
+    "recipe": "Steam or sauté sprouts with mild spices. Finish with lemon and coriander. Pair with roti, curd or rice."
+  },
+  {
+    "title": "Bhindi bhujiya",
+    "slot": "dinner",
+    "mood": [
+      "quick",
+      "comfort"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Sabzi",
+      "Daily food"
+    ],
+    "grocery": [
+      "Bhindi",
+      "Onion optional",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Offer only if baby handles texture; otherwise keep dal/curd rice for baby.",
+    "recipe": "Slice bhindi and sauté with mild spices until non-sticky and cooked. Serve with roti and curd."
+  },
+  {
+    "title": "Bhindi stuffed",
+    "slot": "dinner",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Sabzi",
+      "Indian"
+    ],
+    "grocery": [
+      "Bhindi",
+      "Besan optional",
+      "Dry masalas",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Bhindi texture may be tricky. Offer a separate soft vegetable or dal rice.",
+    "recipe": "Slit bhindi and fill with dry masala. Cook covered on low flame until tender. Serve with roti."
+  },
+  {
+    "title": "Mushroom sandwich",
+    "slot": "dinner",
+    "mood": [
+      "quick",
+      "continental",
+      "light"
+    ],
+    "time": "20 min",
+    "tags": [
+      "Sandwich",
+      "Quick dinner"
+    ],
+    "grocery": [
+      "Bread",
+      "Mushroom",
+      "Cheese optional",
+      "Garlic",
+      "Butter",
+      "Capsicum optional"
+    ],
+    "baby": "Mushrooms can be chewy. Offer soft bread/cheese or a separate baby meal.",
+    "recipe": "Sauté mushrooms with garlic and butter. Fill bread with mushroom mix and cheese. Toast lightly."
+  },
+  {
+    "title": "Veg cutlet burger",
+    "slot": "dinner",
+    "mood": [
+      "continental",
+      "special"
+    ],
+    "time": "35 min",
+    "tags": [
+      "Fun dinner",
+      "Occasional"
+    ],
+    "grocery": [
+      "Burger buns",
+      "Potato",
+      "Mixed vegetables",
+      "Cheese",
+      "Tomato",
+      "Lettuce optional"
+    ],
+    "baby": "Offer deconstructed soft potato/veg cutlet pieces separately.",
+    "recipe": "Make potato-mixed veg cutlets. Toast buns and assemble with cheese, tomato and a curd-based sauce."
+  },
+  {
+    "title": "Gobi sabji",
+    "slot": "dinner",
+    "mood": [
+      "comfort",
+      "quick"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Sabzi",
+      "Daily food"
+    ],
+    "grocery": [
+      "Cauliflower",
+      "Potato optional",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Offer soft cauliflower only if tolerated and cooked very soft.",
+    "recipe": "Cook cauliflower with mild spices and optional potato. Serve with roti and curd."
+  },
+  {
+    "title": "Paneer bhurji + roti",
+    "slot": "dinner",
+    "mood": [
+      "quick",
+      "special"
+    ],
+    "time": "20 min",
+    "tags": [
+      "Protein",
+      "Fast dinner"
+    ],
+    "grocery": [
+      "Paneer",
+      "Onion",
+      "Tomato",
+      "Capsicum",
+      "Roti atta",
+      "Coriander"
+    ],
+    "baby": "Offer soft paneer crumbs separately if tolerated. Keep spices mild.",
+    "recipe": "Sauté onion, tomato and capsicum. Add crumbled paneer, turmeric, mild masala and coriander. Serve with roti."
+  },
+  {
+    "title": "Paneer kofta curry",
+    "slot": "dinner",
+    "mood": [
+      "special"
+    ],
+    "time": "45 min",
+    "tags": [
+      "Special",
+      "Paneer"
+    ],
+    "grocery": [
+      "Paneer",
+      "Potato optional",
+      "Besan or cornflour",
+      "Onion",
+      "Tomato",
+      "Roti"
+    ],
+    "baby": "Offer plain soft paneer/potato separately before masala.",
+    "recipe": "Make paneer koftas and prepare onion-tomato gravy. Add koftas just before serving."
+  },
+  {
+    "title": "Pasta - spinach",
+    "slot": "dinner",
+    "mood": [
+      "continental",
+      "light",
+      "special"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Continental",
+      "Greens"
+    ],
+    "grocery": [
+      "Pasta",
+      "Spinach",
+      "Garlic",
+      "Milk or cream optional",
+      "Cheese",
+      "Corn optional"
+    ],
+    "baby": "Use soft pasta and mild spinach sauce with less salt if baby has had spinach.",
+    "recipe": "Boil pasta. Make a spinach-garlic sauce with milk or cheese. Toss pasta and serve warm."
+  },
+  {
+    "title": "Beans bhujiya",
+    "slot": "dinner",
+    "mood": [
+      "quick",
+      "light",
+      "comfort"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Sabzi",
+      "Daily food"
+    ],
+    "grocery": [
+      "French beans",
+      "Potato optional",
+      "Roti",
+      "Curd optional"
+    ],
+    "baby": "Cook beans very soft or offer a separate baby meal depending on chewing ability.",
+    "recipe": "Chop beans finely and sauté with mild spices. Add potato if needed. Serve with roti."
+  },
+  {
+    "title": "Veg kofta curry",
+    "slot": "dinner",
+    "mood": [
+      "special"
+    ],
+    "time": "45 min",
+    "tags": [
+      "Special",
+      "Vegetable curry"
+    ],
+    "grocery": [
+      "Mixed vegetables",
+      "Potato",
+      "Besan or cornflour",
+      "Onion",
+      "Tomato",
+      "Roti"
+    ],
+    "baby": "Offer soft boiled vegetables separately before masala.",
+    "recipe": "Make koftas using mashed vegetables and potato. Simmer in onion-tomato gravy and serve with roti."
+  },
+  {
+    "title": "Chana dal",
+    "slot": "dinner",
+    "mood": [
+      "comfort",
+      "light"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Dal",
+      "Protein"
+    ],
+    "grocery": [
+      "Chana dal",
+      "Tomato",
+      "Ginger",
+      "Coriander",
+      "Rice or roti",
+      "Ghee"
+    ],
+    "baby": "Can be slightly heavy. Offer well-cooked mashed dal only if already introduced.",
+    "recipe": "Pressure cook chana dal until soft but not mushy. Add mild tadka and serve with rice or roti."
+  },
+  {
+    "title": "Mixed dal",
+    "slot": "dinner",
+    "mood": [
+      "comfort",
+      "light",
+      "baby"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Dal",
+      "Protein",
+      "Daily food"
+    ],
+    "grocery": [
+      "Mixed dals",
+      "Tomato",
+      "Ginger",
+      "Coriander",
+      "Rice or roti",
+      "Ghee"
+    ],
+    "baby": "Good baby option if cooked soft and kept low spice before tadka.",
+    "recipe": "Pressure cook mixed dals with turmeric and tomato. Add simple tadka for adults. Serve with rice or roti."
+  },
+  {
+    "title": "Dal makhni",
+    "slot": "dinner",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "45 min if soaked",
+    "tags": [
+      "North Indian",
+      "Comfort",
+      "Protein"
+    ],
+    "grocery": [
+      "Whole urad dal",
+      "Rajma optional",
+      "Tomato puree",
+      "Cream or butter",
+      "Ginger garlic",
+      "Rice or roti"
+    ],
+    "baby": "Too heavy/spiced for baby. Offer plain dal rice or curd rice separately.",
+    "recipe": "Pressure cook soaked urad dal until soft. Simmer with tomato, ginger-garlic and mild spices. Finish with butter or cream."
+  },
+  {
+    "title": "Palak corn sandwich",
+    "slot": "dinner",
+    "mood": [
+      "continental",
+      "quick",
+      "special"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Sandwich",
+      "Greens"
+    ],
+    "grocery": [
+      "Bread",
+      "Palak",
+      "Corn",
+      "Cheese",
+      "Garlic",
+      "Butter"
+    ],
+    "baby": "Offer soft palak/corn filling only if texture is safe; avoid hard toast pieces.",
+    "recipe": "Sauté palak and corn with garlic. Mix with cheese. Fill bread and toast lightly."
+  },
+  {
+    "title": "Beet aloo tofu sandwich",
+    "slot": "dinner",
+    "mood": [
+      "continental",
+      "special",
+      "light"
+    ],
+    "time": "30 min",
+    "tags": [
+      "Sandwich",
+      "Colorful",
+      "Protein"
+    ],
+    "grocery": [
+      "Bread",
+      "Beetroot",
+      "Potato",
+      "Tofu",
+      "Cheese optional",
+      "Curd dip optional"
+    ],
+    "baby": "Offer plain beet-potato mash or soft tofu separately if already introduced.",
+    "recipe": "Make a beet, potato and tofu filling. Add mild seasoning, spread in bread and toast or grill."
+  },
+  {
+    "title": "Samosa",
+    "slot": "snack",
+    "mood": [
+      "special",
+      "comfort"
+    ],
+    "time": "30 min if ready/frozen",
+    "tags": [
+      "Indian snack",
+      "Occasional",
+      "Tea-time"
+    ],
+    "grocery": [
+      "Samosa ready/frozen",
+      "Green chutney",
+      "Tamarind chutney optional"
+    ],
+    "baby": "Not suitable for baby as-is. Offer fruit, curd, or soft homemade snack separately.",
+    "recipe": "Heat ready/frozen samosas as per packet or home method. Serve with green chutney and tea."
+  },
+  {
+    "title": "Dhokla",
+    "slot": "snack",
+    "mood": [
+      "light",
+      "quick",
+      "baby"
+    ],
+    "time": "20 min if mix ready",
+    "tags": [
+      "Gujarati",
+      "Light snack",
+      "Baby adaptable"
+    ],
+    "grocery": [
+      "Dhokla mix or besan",
+      "Curd optional",
+      "Eno",
+      "Mustard seeds",
+      "Curry leaves"
+    ],
+    "baby": "Soft dhokla can be offered in tiny pieces if low salt and no chilli.",
+    "recipe": "Prepare batter, add Eno, steam until soft. Temper lightly with mustard and curry leaves."
+  },
+  {
+    "title": "Pani puri",
+    "slot": "snack",
+    "mood": [
+      "special"
+    ],
+    "time": "20 min",
+    "tags": [
+      "Chaat",
+      "Fun snack",
+      "Occasional"
+    ],
+    "grocery": [
+      "Puri",
+      "Potato",
+      "Chana optional",
+      "Mint",
+      "Tamarind",
+      "Boondi optional"
+    ],
+    "baby": "Not for baby. Keep a separate baby snack.",
+    "recipe": "Prepare potato filling, mint water and sweet chutney. Assemble fresh while eating."
+  },
+  {
+    "title": "Bread pakora",
+    "slot": "snack",
+    "mood": [
+      "comfort",
+      "special"
+    ],
+    "time": "25 min",
+    "tags": [
+      "Indian snack",
+      "Tea-time",
+      "Occasional"
+    ],
+    "grocery": [
+      "Bread",
+      "Besan",
+      "Potato optional",
+      "Green chutney",
+      "Oil"
+    ],
+    "baby": "Not suitable for baby as-is. Offer plain bread/banana/curd separately.",
+    "recipe": "Make besan batter. Stuff bread with potato if desired, dip and fry or shallow-fry. Serve with chutney."
+  },
+  {
+    "title": "Makhana + fruit + milk",
+    "slot": "snack",
+    "mood": [
+      "quick",
+      "light",
+      "baby"
+    ],
+    "time": "10 min",
+    "tags": [
+      "Snack",
+      "Low effort"
+    ],
+    "grocery": [
+      "Makhana",
+      "Seasonal fruit",
+      "Milk"
+    ],
+    "baby": "Use age-safe fruit pieces or mashed fruit. Avoid whole makhana for baby unless powdered/softened.",
+    "recipe": "Roast makhana with ghee. Serve with fruit and milk. Add mild seasoning for adults."
+  }
+]
